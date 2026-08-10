@@ -9,7 +9,7 @@ En el proyecto se desarrollo una base de datos relacional para una empresa ficti
 - 💻 [Script SQL](./src/inventario-mixup.ipynb) para crear DB, tablas e inserción de datos de prueba 
 - 📖 [Diccionario de datos](./doc/diccionario-datos.md)
 
-
+## Demo
 <p align="center">
   <img src="./doc/demo-mixup.gif" alt="Demo" width="50%">
 </p>

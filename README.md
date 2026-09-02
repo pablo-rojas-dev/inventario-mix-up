@@ -11,7 +11,7 @@ En el proyecto se desarrollo una base de datos relacional para una empresa ficti
 
 ## Demo
 <p align="center">
-  <img src="./doc/demo-mixup.gif" alt="Demo" width="50%">
+  <img src="./doc/demo-mixup.gif" alt="Demo" width="100%">
 </p>
 
 ## Modelos
